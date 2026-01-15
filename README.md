@@ -3,6 +3,10 @@
 ![example workflow](https://github.com/baler-compressor/baler/actions/workflows/test_and_lint.yaml/badge.svg)
 ![example workflow](https://github.com/baler-compressor/baler/actions/workflows/docker.yaml/badge.svg)
 
+# Note
+
+Due to a change in the former project lead's priorities we're not reviewing PRs at the moment. We'll get to these whenever we have a new project lead (which may be a few months). 
+
 # Introduction
 Baler is a tool used to test the feasibility of compressing different types of scientific data using machine learning-based autoencoders. Baler provides you with an easy way to:
 1. Train a machine learning model on your data
